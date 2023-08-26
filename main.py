@@ -1,5 +1,5 @@
 import argparse
-
+import time
 import tqdm
 from torch.optim.lr_scheduler import CosineAnnealingLR
 from torch.utils.data import DataLoader
@@ -157,7 +157,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     # setting random seed
-    seed = 5603114
+    seed = int(time.time())
     random.seed(seed)
     torch.manual_seed(seed)
     torch.cuda.manual_seed(seed)
