@@ -1,3 +1,13 @@
 # PEdger
-The officianl implementation of the paper "Practical Edge Detection via Robust Collaborative Learning" published in ACM MM 2023. 
-We are currently busy with other affairs, and will release the codes soon.
+Practical Edge Detection via Robust Collaborative Learning. Yuanbin Fu, and Xiaojie Guo. ACM MM, 2023
+
+# Preparing Data
+Download the augmented BSDS and PASCAL VOC datasets from:
+
+http://mftp.mmcheng.net/liuyun/rcf/data/HED-BSDS.tar.gz
+
+http://mftp.mmcheng.net/liuyun/rcf/data/PASCAL.tar.gz
+
+Download the augmented NYUD dataset from:
+
+http://mftp.mmcheng.net/liuyun/rcf/data/NYUD.tar.gz
