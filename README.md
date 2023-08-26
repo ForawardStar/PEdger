@@ -1,5 +1,5 @@
 # PEdger
-Yuanbin Fu, and Xiaojie Guo. *Practical Edge Detection via Robust Collaborative Learning*.  ACM Multimedia, 2023
+Yuanbin Fu, and Xiaojie Guo. *Practical Edge Detection via Robust Collaborative Learning*.  In ACM Multimedia, 2023
 
 # Preparing Data
 Download the augmented BSDS and PASCAL VOC datasets from:
