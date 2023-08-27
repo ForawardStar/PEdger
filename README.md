@@ -49,10 +49,15 @@ If you find this work useful, please cite it as:
 
 `
 @inproceedings{PEdger,
+
   author={Yuanbin, Fu and Xiaojie, Guo},
+  
   booktitle={ACM MM}, 
+  
   title={Practical Edge Detection via Robust Collaborative Learning}, 
+  
   year={2023},
+  
   doi = {https://doi.org/10.1145/3581783.3612099},
   }
   `
