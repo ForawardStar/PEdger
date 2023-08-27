@@ -34,6 +34,8 @@ The matlab code for evaluation can be downloaded in https://www2.eecs.berkeley.e
 # Demoe Video
 https://github.com/ForawardStar/PEdger/assets/32625467/df7831a7-5837-4f8f-9ab8-482a5e06aa1f
 
+This video can also be watched in Youtube: https://youtu.be/LudLHS4Nno0
+
 # Visual Results
 Input            |  GT | Result
 :-------------------------:|:-------------------------:|:-------------------------:
