@@ -15,9 +15,6 @@ Download the augmented NYUD dataset from:
 
 http://mftp.mmcheng.net/liuyun/rcf/data/NYUD.tar.gz
 
-# Pretrained Model
-``checkpoint.pth” in this repository is our pre-trained model.
-
 # Training
 change the training data path in ``main.py" to your own path, then run:
 
