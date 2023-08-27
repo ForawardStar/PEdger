@@ -28,7 +28,7 @@ change the testing data path and checkpoint path in ``test.py" to your own path,
 # Evaluation
 The matlab code for evaluation can be downloaded in https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html. Before evaluation, the non-maximum suppression should be done through running ``edge_nms.m" in https://github.com/yun-liu/RCF.  The codes for plotting Precision-Recall curves are in https://github.com/yun-liu/plot-edge-pr-curves.
 
-# Demoe Video
+# Demo Video
 https://github.com/ForawardStar/PEdger/assets/32625467/df7831a7-5837-4f8f-9ab8-482a5e06aa1f
 
 This video can also be watched in Youtube: https://youtu.be/LudLHS4Nno0
