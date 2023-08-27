@@ -43,3 +43,17 @@ Input            |  GT | Result
 ![](com/145079.jpg)  |  ![](com/145079_gt.jpg) | ![Result](com/145079.png "Result")
 ![](com/187058.jpg)  |  ![](com/187058_gt.jpg) | ![Result](com/187058.png "Result")
 
+
+# Citation
+If you find this work useful, please cite it as:
+
+`
+@inproceedings{PEdger,
+  author={Yuanbin, Fu and Xiaojie, Guo},
+  booktitle={ACM MM}, 
+  title={Practical Edge Detection via Robust Collaborative Learning}, 
+  year={2023},
+  doi = {https://doi.org/10.1145/3581783.3612099},
+  }
+  `
+}
