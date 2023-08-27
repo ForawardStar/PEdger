@@ -19,12 +19,12 @@ http://mftp.mmcheng.net/liuyun/rcf/data/NYUD.tar.gz
 ``checkpoint.pth” in this repository is our pre-trained model.
 
 # Training
-change the data path in ``main.py" to your own path, then run:
+change the training data path in ``main.py" to your own path, then run:
 
 `python main.py`
 
 # Testing
-change the data path and checkpoint path in ``test.py" to your own path, then run:
+change the testing data path and checkpoint path in ``test.py" to your own path, then run:
 
 `python test.py`
 
