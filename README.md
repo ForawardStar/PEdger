@@ -19,14 +19,22 @@ http://mftp.mmcheng.net/liuyun/rcf/data/NYUD.tar.gz
 ``checkpoint.pth” in this repository is our pre-trained model.
 
 # Training
-change the data path in ``main.py" to your own path, then run:
+change the training data path in ``main.py" to your own path, then run:
 
 `python main.py`
 
 # Testing
-change the data path and checkpoint path in ``test.py" to your own path, then run:
+change the testing data path and checkpoint path in ``test.py" to your own path, then run:
 
 `python test.py`
 
 # Evaluation
 The matlab code for evaluation can be downloaded in https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html. Before evaluation, the non-maximum suppression should be done through running ``edge_nms.m" in https://github.com/yun-liu/RCF.  The codes for plotting Precision-Recall curves are in https://github.com/yun-liu/plot-edge-pr-curves.
+
+# Visual Results
+Input            |  GT | Result
+:-------------------------:|:-------------------------:|:-------------------------:
+![](com/134067.jpg)  |  ![](com/134067_gt.jpg) | ![Result](com/134067.png "Result")
+![](com/145079.jpg)  |  ![](com/145079_gt.jpg) | ![Result](com/145079.png "Result")
+![](com/187058.jpg)  |  ![](com/187058_gt.jpg) | ![Result](com/187058.png "Result")
+
