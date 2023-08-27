@@ -47,7 +47,7 @@ Input            |  GT | Result
 # Citation
 If you find this work useful, please cite it as:
 
-`
+```
 @inproceedings{PEdger,
 
   author={Yuanbin, Fu and Xiaojie, Guo},
@@ -60,5 +60,4 @@ If you find this work useful, please cite it as:
   
   doi = {https://doi.org/10.1145/3581783.3612099},
   }
-  `
-}
+  ```
