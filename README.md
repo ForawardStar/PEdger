@@ -35,4 +35,5 @@ The matlab code for evaluation can be downloaded in https://www2.eecs.berkeley.e
 Input            |  GT | Result
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](com/145079.jpg)  |  ![](com/145079_gt.jpg) | ![Result](com/145079.png "Result")
+![](com/187058.jpg)  |  ![](com/187058_gt.jpg) | ![Result](com/187058.png "Result")
 
