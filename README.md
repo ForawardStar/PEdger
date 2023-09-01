@@ -13,10 +13,7 @@ http://mftp.mmcheng.net/liuyun/rcf/data/PASCAL.tar.gz
 
 Download the augmented NYUD dataset from:
 
-http://mftp.mmcheng.net/liuyun/rcf/data/NYUD.tar.gz
-
-# Pretrained Model
-``checkpoint.pth” in this repository is our pre-trained model.
+https://pan.baidu.com/s/1J5z6235tv1xef3HXTaqnKg Extraction Code:t2ce
 
 # Training
 change the training data path in ``main.py" to your own path, then run:
@@ -31,6 +28,11 @@ change the testing data path and checkpoint path in ``test.py" to your own path,
 # Evaluation
 The matlab code for evaluation can be downloaded in https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html. Before evaluation, the non-maximum suppression should be done through running ``edge_nms.m" in https://github.com/yun-liu/RCF.  The codes for plotting Precision-Recall curves are in https://github.com/yun-liu/plot-edge-pr-curves.
 
+# Demo Video
+https://github.com/ForawardStar/PEdger/assets/32625467/df7831a7-5837-4f8f-9ab8-482a5e06aa1f
+
+This video can also be watched in Youtube: https://youtu.be/LudLHS4Nno0
+
 # Visual Results
 Input            |  GT | Result
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -38,3 +40,21 @@ Input            |  GT | Result
 ![](com/145079.jpg)  |  ![](com/145079_gt.jpg) | ![Result](com/145079.png "Result")
 ![](com/187058.jpg)  |  ![](com/187058_gt.jpg) | ![Result](com/187058.png "Result")
 
+
+# Citation
+If you find this work useful, please cite it as:
+
+```
+@inproceedings{PEdger,
+
+  author={Yuanbin, Fu and Xiaojie, Guo},
+  
+  booktitle={ACM MM}, 
+  
+  title={Practical Edge Detection via Robust Collaborative Learning}, 
+  
+  year={2023},
+  
+  doi = {https://doi.org/10.1145/3581783.3612099},
+  }
+  ```
