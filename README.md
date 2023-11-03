@@ -20,6 +20,7 @@ change the training data path in ``main.py" to your own path, then run:
 
 `python main.py`
 
+The training process lasts about 7 days.
 # Testing
 change the testing data path and checkpoint path in ``test.py" to your own path, then run:
 
