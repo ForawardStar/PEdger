@@ -20,7 +20,7 @@ change the training data path in ``main.py" to your own path, then run:
 
 `python main.py`
 
-The training process lasts about 7 days.
+The training procedure lasts about 7 days.
 # Testing
 change the testing data path and checkpoint path in ``test.py" to your own path, then run:
 
@@ -28,19 +28,6 @@ change the testing data path and checkpoint path in ``test.py" to your own path,
 
 # Evaluation
 The matlab code for evaluation can be downloaded in https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html. Before evaluation, the non-maximum suppression should be done through running ``edge_nms.m" in https://github.com/yun-liu/RCF.  The codes for plotting Precision-Recall curves are in https://github.com/yun-liu/plot-edge-pr-curves.
-
-# Demo Video
-https://github.com/ForawardStar/PEdger/assets/32625467/df7831a7-5837-4f8f-9ab8-482a5e06aa1f
-
-This video can also be watched in Youtube: https://youtu.be/LudLHS4Nno0
-
-# Visual Results
-Input            |  GT | Result
-:-------------------------:|:-------------------------:|:-------------------------:
-![](com/134067.jpg)  |  ![](com/134067_gt.jpg) | ![Result](com/134067.png "Result")
-![](com/145079.jpg)  |  ![](com/145079_gt.jpg) | ![Result](com/145079.png "Result")
-![](com/187058.jpg)  |  ![](com/187058_gt.jpg) | ![Result](com/187058.png "Result")
-
 
 # Citation
 If you find this work useful, please cite it as:
